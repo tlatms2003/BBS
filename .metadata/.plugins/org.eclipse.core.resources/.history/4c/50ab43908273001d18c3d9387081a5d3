@@ -1,0 +1,17 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+	pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+
+<meta bane = "viewport" content="width=device-width", initial-scale="1">  <%-- 모바일이든 컴퓨터는해상도에 맞게 디자인변경--%>
+<link rel="stylesheet" href="css/bootstrap.css"><%--css폴더에 bootstrap을 불러옴--%>
+<title>JSP 게시판 웹 사이트</title>
+</head>
+<body>
+	<nav calss="navbar navbar-default"></nav>
+	<script src = "https://code.jquery.com/jquery-3.1.1.min.js"></script>
+	<script src = "js/bootstrap.js"></script>
+</body>
+</html>
